@@ -1,4 +1,4 @@
-# pedestrian-networks
+# Pedestrian Networks
 A series of pedestrian networks in the Denver metropolitan area
 
 ## License
